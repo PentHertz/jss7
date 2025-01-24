@@ -502,6 +502,10 @@
 	<!-- repositories -->
 	<repositories>
 		<repository>
+            <id>jahia</id>
+            <url>https://maven.jahia.org/maven2</url>
+        </repository>
+		<repository>
             		<id>central</id>
             		<url>https://repo.maven.apache.org/maven2</url>
         	</repository>
