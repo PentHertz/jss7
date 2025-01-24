@@ -502,6 +502,10 @@
 	<!-- repositories -->
 	<repositories>
 		<repository>
+            		<id>central</id>
+            		<url>https://repo.maven.apache.org/maven2</url>
+        	</repository>
+		<repository>
 			<id>restcomm-public-repository-group</id>
 			<name>Restcomm Public Maven Repository Group</name>
 			<url>https://oss.sonatype.org/content/groups/public/</url>
